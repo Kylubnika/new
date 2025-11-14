@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(6, 139, 137);
+}
+
+ th, td, tr, tbody, .title {
+    border: 1px solid black ;
+}
+
+#main {
+    color: burlywood;
+}
+
+div > img {
+    width: 200px;
+}
+
+div {
+    text-align: center;
+}
